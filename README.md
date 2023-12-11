@@ -10,4 +10,5 @@ Scripts de compilação e execução:
 * Clique em "New Game" para iniciar a jogar e se divertir
 
 <br>Esquema UML base:
-![Classe UML](https://github.com/TommDaniel/Developer_Simulator_Clicker/assets/109762637/68119cf4-509f-4830-a41a-ee02ce4269e5)
+![UML Clicker](https://github.com/TommDaniel/Developer_Simulator_Clicker/assets/109762637/e286fa45-4b40-48a8-a083-1ecc43b8306b)
+
