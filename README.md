@@ -8,6 +8,6 @@ Scripts de compilação e execução:
 * Compile o programa utilizando o comando: javac Gerenciamento/*.java tela/*.java Up/*.java util/*.java
 * Execute o programa com o comando: java tela.Clicker
 * Clique em "New Game" para iniciar a jogar e se divertir
-<br>Esquema UML base:
+<br><br>Esquema UML base: <br>
 ![UML Clicker](https://github.com/TommDaniel/Developer_Simulator_Clicker/assets/109762637/e286fa45-4b40-48a8-a083-1ecc43b8306b)
 
